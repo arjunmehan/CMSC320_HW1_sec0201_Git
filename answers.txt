@@ -5,3 +5,9 @@ Answer: For version control
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: AI, since its training requires large datasets that often need to be manipulated 
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging combines two brances, rebasing moves around the commits
+
