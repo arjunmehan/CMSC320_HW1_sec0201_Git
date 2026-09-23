@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: AI, since its training requires large datasets that often need to be manipulated 
